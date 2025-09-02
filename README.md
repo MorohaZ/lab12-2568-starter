@@ -10,8 +10,8 @@
 After cloning repository, open the project with VSCode and run the following commands in terminal:
 
 ```
-pnpm install
-pnpm run dev
+npm install
+npm run dev
 
 ```
 ให้นักศึกษาสร้างหน้าเว็บ Todo List โดยใช้ความรู้เรื่อง React + Mantine ui Libary
@@ -32,7 +32,7 @@ pnpm run dev
 Install Mantine core packages:
 
 ```
-pnpm install @mantine/core @mantine/hooks
+npm install @mantine/core @mantine/hooks
 
 ```
 
@@ -53,7 +53,7 @@ Explore pre-built UI layouts and components from Mantine:
 Install:
 
 ```
-pnpm install @tabler/icons-react
+npm install @tabler/icons-react
 
 ```
 
@@ -75,7 +75,7 @@ Use the uuid package to generate unique IDs:
 Install:
 
 ```
-pnpm install uuid
+npm install uuid
 
 ```
 
