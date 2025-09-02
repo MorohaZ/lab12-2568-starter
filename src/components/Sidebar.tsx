@@ -49,7 +49,7 @@ export default function Sidebar() {
               size="md"
               variant="default"
               radius="xl"
-              src="public/pictome.jpg"
+              src="picyome.jpg"
             />
           </Indicator>
           <Text>User : Chayanat : Admin</Text>
