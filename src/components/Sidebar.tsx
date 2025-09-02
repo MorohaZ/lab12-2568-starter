@@ -49,7 +49,7 @@ export default function Sidebar() {
               size="md"
               variant="default"
               radius="xl"
-              src="picyome.jpg"
+              src="https://drive.google.com/drive/my-drive?hl=th"
             />
           </Indicator>
           <Text>User : Chayanat : Admin</Text>
